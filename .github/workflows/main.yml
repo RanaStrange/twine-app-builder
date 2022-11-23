@@ -39,6 +39,7 @@ jobs:
           echo "AUTHOR=${AUTHOR}" >> $GITHUB_ENV
           echo "PUBLISH_ON_WEB=${PUBLISH_ON_WEB}" >> $GITHUB_ENV
 
+
       - name: Install Node.js
         uses: actions/setup-node@v1
         with:
