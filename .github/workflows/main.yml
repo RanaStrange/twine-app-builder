@@ -25,7 +25,7 @@ jobs:
           DESCRIPTION: An 18+ Smutgame featuring Doll Transformation
 
           # This must be of the format "N.N.N", where the N's are all numbers
-          VERSION: 1.61.0
+          VERSION: 1.61.1
 
           # By default, the author will be your name on GitHub. You can manually change this.
           AUTHOR: ${{ github.repository_owner }}
